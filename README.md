@@ -1,1 +1,1 @@
-# coding-project-template
+# e-plantShopping project contains display plants, adding to cart, adding and delete amount -- Xiaolin Song
